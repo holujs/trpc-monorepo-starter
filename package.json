@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@holu/cli": "^0.1.4",
+    "@holu/cli": "^0.2.2",
     "@types/jest": "^30.0.0",
     "@types/node": "^18.19.130",
     "@typescript/native-preview": "^7.0.0-dev.20260707.2",
