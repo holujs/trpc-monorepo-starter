@@ -21,16 +21,16 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@holu/cli": "^0.2.2",
+    "@holu/cli": "^0.2.3",
     "@types/jest": "^30.0.0",
     "@types/node": "^18.19.130",
     "@typescript/native-preview": "^7.0.0-dev.20260707.2",
-    "eslint": "^10.8.1",
-    "jest": "^30.4.2",
+    "eslint": "^10.9.1",
+    "jest": "^30.5.1",
     "prettier": "^2.8.8",
     "rimraf": "^4.4.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.67.0"
+    "typescript-eslint": "^8.69.0"
   }
 }
