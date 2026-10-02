@@ -31,6 +31,7 @@
     "@trpc/client": "^11.18.0"
   },
   "devDependencies": {
+    "@holu/cli": "^0.2.3",
     "@types/supertest": "^6.0.3",
     "supertest": "^6.3.4"
   }
